@@ -19,7 +19,6 @@ class Solution {
                 int temp=arr[mid];
                 arr[mid]=arr[high];
                 arr[high]=temp;
-            
             high--;
             }
         }
