@@ -10,24 +10,24 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        ListNode beforHead=new ListNode(0);
-        ListNode afterHead=new ListNode(0);
-        ListNode beforeNode=beforHead;
-        ListNode afternode=afterHead;
-        while(head!=null){
-            if(head.val<x){
-                beforeNode.next=head;
-                beforeNode=beforeNode.next;
-            }
-            else{
-                afternode.next=head;
-                afternode=afternode.next;
-
-            }
-            head=head.next;
+       ListNode afterHead=new ListNode(0);
+       ListNode beforeHead=new ListNode(0);
+       ListNode after=afterHead;
+       ListNode before=beforeHead;
+       while(head!=null){
+        if(head.val<x){
+            before.next=head;
+            before=before.next;
         }
-        afternode.next=null;
-        beforeNode.next=afterHead.next;
-        return beforHead.next;
+        else{
+            after.next=head;
+            after=after.next;
+        }
+        head=head.next;
+       }
+       after.next=null;
+       before.next=afterHead.next;
+        return  beforeHead.next;
     }
+   
 }
