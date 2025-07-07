@@ -18,7 +18,7 @@ class Solution {
         if(root==null){
             return 0;
         }
-          if (root.left != null && root.left.left == null && root.left.right == null) {
+          if (root.left != null && root.left.left == null &&root.left.right==null) {
             sum[0] += root.left.val;
         }
         in(root.left,sum);
