@@ -14,13 +14,19 @@
  * }
  */
 class Solution {
-    public boolean isSymmetric(TreeNode root) {
-        if(root==null){
-            return false;
-        }
-        if(root.right.val==root.left.val||root.left.left==root.right.left){
+    boolean isMirror(TreeNode t1,TreeNode t2){
+        if(t1==null&&t2==null){
             return true;
         }
-        return false;
+        if(t1==null||t2==null){
+return false;
+        }
+        return t1.val==t2.val&&isMirror(t1.left,t2.right)&&isMirror(t2.left,t1.right);
+    }
+    public boolean isSymmetric(TreeNode root) {
+       if(root==null){
+        return true;
+       }
+       return isMirror(root.left,root.right);
     }
 }
