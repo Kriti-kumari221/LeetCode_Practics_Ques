@@ -25,7 +25,6 @@ class Solution {
             if(curr.compareTo(result)<0){
                 result=curr;
             }
-            
         }
         small(root.left,sum);
         small(root.right,sum);
