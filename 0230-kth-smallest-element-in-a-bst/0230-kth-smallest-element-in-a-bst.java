@@ -14,15 +14,21 @@
  * }
  */
 class Solution {
-    public int kthSmallest(TreeNode root, int k) {
-        while(root!=null){
-            if(root.val<k){
-                root=root.left;
-            }
-            else{
-                root=root.right;
-            }   
+    int count=0;
+    int result=-1;
+    void rec(TreeNode root,int k){
+        if(root==null){
+            return ;
         }
-        return k;
+        rec(root.left,k);
+        count++;
+        if(count==k){
+            result=root.val;
+        }
+        rec(root.right,k);
+    }
+    public int kthSmallest(TreeNode root, int k) {
+       rec(root,k);
+       return result;
     }
 }
