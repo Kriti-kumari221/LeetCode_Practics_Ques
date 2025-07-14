@@ -4,7 +4,7 @@ class Solution {
         int reched=0;
         int end=0;
         int count=0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n-1;i++){
             reched=Math.max(reched,nums[i]+i);
            if(i==end){
             count++;
@@ -12,6 +12,6 @@ class Solution {
            }
            
         }
-        return count-1;
+        return count;
     }
 }
