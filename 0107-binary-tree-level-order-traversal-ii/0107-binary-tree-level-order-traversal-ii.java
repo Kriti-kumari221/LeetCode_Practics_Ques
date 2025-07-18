@@ -14,22 +14,30 @@
  * }
  */
 class Solution {
-    void rec(List<List<Integer>>res,TreeNode root,int level){
-        if(root==null){
-            return;
-        }
-        if(res.size()==level){
-            res.add(new ArrayList<>());
-        }
-        res.get(level).add(root.val);
-        rec(res,root.left,level+1);
-        rec(res,root.right,level+1);
-
-    }
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
-        List<List<Integer>>res=new ArrayList<>();
-        rec(res,root,0);
-        Collections.reverse(res);
+       List<List<Integer>>res=new ArrayList<>();
+       if(root==null){
         return res;
+       }
+       Queue<TreeNode>queue=new LinkedList<>();
+       queue.add(root);
+       while(!queue.isEmpty()){
+        int level=queue.size();
+        List<Integer>levell=new ArrayList<>();
+        for(int i=0;i<level;i++){
+            TreeNode curr=queue.remove();
+            levell.add(curr.val);
+        
+        if(curr.left!=null){
+            queue.add(curr.left);
+        }
+        if(curr.right!=null){
+            queue.add(curr.right);
+        }
+        }
+        res.add(0,levell);
+
+       }
+       return res;
     }
 }
