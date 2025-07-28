@@ -18,7 +18,7 @@ class Solution {
                 break;
             }
         }
-        reverse(nums, pivot + 1, n - 1);
+        // reverse(nums, pivot + 1, n - 1);
     }
     private void swap(int[] nums, int i, int j) {
         int temp = nums[i];
