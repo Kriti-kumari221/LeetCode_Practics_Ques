@@ -1,5 +1,4 @@
 class Solution {
-
     public int findSmallestInteger(int[] nums, int value) {
         int[] mp = new int[value];
         for (int x : nums) {
