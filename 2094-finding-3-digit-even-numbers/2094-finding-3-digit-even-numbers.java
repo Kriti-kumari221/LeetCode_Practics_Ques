@@ -1,35 +1,34 @@
 class Solution {
     public int[] findEvenNumbers(int[] arr) {
-        int n=arr.length;
-        int count=1;
-        Set<Integer> set = new HashSet<>();
-        int p=0;
-        int digit=0;
-        int sum=0;
-        for(int i=0;i<n;i++){
-            if(arr[i]==0){
-                continue;
-            }
-            for(int j=0;j<n;j++){
-                if(i==j){
-                    continue;
-                }
-                for(int k=0;k<n;k++){
-                    if(i==k||j==k){
-                        continue;
-                    }
-                    sum=arr[i]*100+arr[j]*10+arr[k];
-                    if(sum%2==0){
-                        set.add(sum);
-                    }
+        int freq[]=new int[10];
+        ArrayList<Integer>res=new ArrayList<>();
+        for(int a:arr){
+            freq[a]++;
+        }
+        for(int i=100;i<=998;i+=2){
+            int a=i/100;
+            int b=(i/10)%10;
+            int c=i%10;
+            int loc[]=new int[10];
+            loc[a]++;
+            loc[b]++;
+            loc[c]++;
+            boolean valid=true;
+            for(int k=0;k<10;k++){
+                if(loc[k]>freq[k]){
+                    valid=false;
+                    break;
                 }
             }
+                if(valid)
+                res.add(i);
+            }
+            
+        int ans[] = new int[res.size()];
+        for (int i = 0; i < res.size(); i++) {
+            ans[i] = res.get(i);
         }
-        int res[] = new int[set.size()];
-        for(int k:set){
-            res[p++]=k;
-        }
-         Arrays.sort(res);
-        return res;
+
+        return ans;
     }
 }
