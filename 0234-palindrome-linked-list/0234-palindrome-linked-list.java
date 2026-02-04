@@ -9,23 +9,13 @@
  * }
  */
 class Solution {
-    public ListNode reverse(ListNode head){
-        ListNode curr=head;
-        ListNode prev=null;
-        while(curr!=null){
-            ListNode next=curr.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
-        }
-        return prev;
-    }
     public boolean isPalindrome(ListNode head) {
-        ListNode slow=head;
+        ListNode temp=head;
         ListNode fast=head;
+        ListNode slow=head;
         while(fast!=null&&fast.next!=null){
-            slow=slow.next;
             fast=fast.next.next;
+            slow=slow.next;
         }
         ListNode secondHalf=reverse(slow);
         ListNode firstHalf=head;
@@ -35,7 +25,21 @@ class Solution {
             }
             secondHalf=secondHalf.next;
             firstHalf=firstHalf.next;
+            
         }
         return true;
+
+    }
+    ListNode reverse(ListNode head){
+        ListNode prev=null;
+        ListNode curr=head;
+        ListNode temp=head;
+        while(curr!=null){
+            ListNode nextNode=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=nextNode;
+        }
+        return prev;
     }
 }
