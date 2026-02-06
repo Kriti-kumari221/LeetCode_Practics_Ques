@@ -14,24 +14,22 @@
  * }
  */
 class Solution {
-    List<Integer> in(TreeNode root,List<Integer>roott){
-        if(root==null){
-            return null;
+    void T2(TreeNode root,List<Integer>l){
+        if(root==null)return ;
+        if(root.left==null&&root.right==null){
+            l.add(root.val);
+            // return ;
         }
-        if(root.left==null && root.right==null){
-            roott.add(root.val);
-        }
-        in(root.left,roott);
-        in(root.right,roott);
-        return roott;
-
+        T2(root.left,l);
+        T2(root.right,l);
+        // return ;
     }
+  
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
-        List<Integer>l1=new ArrayList<>();
-        List<Integer>l2=new ArrayList<>();
-       in(root1,l1);
-        in(root2,l2);
-        if(l1.equals(l2))return true;
-        return false;
+       List<Integer>l1=new ArrayList<>();
+       List<Integer>l2=new ArrayList<>();
+       T2(root1,l1);
+       T2(root2,l2);
+       return l1.equals(l2);
     }
 }
