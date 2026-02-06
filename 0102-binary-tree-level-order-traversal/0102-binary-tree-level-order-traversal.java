@@ -14,20 +14,20 @@
  * }
  */
 class Solution {
-    public void level(List<List<Integer>>res,TreeNode root,int level){
-               if(root==null){
-                return;
-               }
-               if(res.size()==level){
-                res.add(new ArrayList<>());
-               }
-               res.get(level).add(root.val);
-               level(res,root.left,level+1);
-               level(res,root.right,level+1);
+    public void lev(TreeNode root,List<List<Integer>>res,int level){
+        if(root==null){
+            return ;
+        }
+        if(res.size()==level){
+            res.add(new ArrayList<>());
+        }
+        res.get(level).add(root.val);
+        lev(root.left,res,level+1);
+        lev(root.right,res,level+1);
     }
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>>res=new ArrayList<>();
-        level(res,root,0);
+        lev(root,res,0);
         return res;
     }
 }
