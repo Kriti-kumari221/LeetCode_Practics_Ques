@@ -14,24 +14,22 @@
  * }
  */
 class Solution {
-    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>>res=new ArrayList<>();
-        level(res,root,0);
-        return res;
-    }
-    public void level(List<List<Integer>>res,TreeNode root,int level){
-        if(root==null){
-            return ;
-        }
+    void zig(TreeNode root,List<List<Integer>>res,int level){
+        if(root==null)return ;
         if(res.size()==level){
             res.add(new ArrayList<>());
         }
-        if (level % 2 == 0) {
-            res.get(level).addLast(root.val);  
-        } else {
-            res.get(level).addFirst(root.val); 
-        }
-        level(res,root.left,level+1);
-         level(res,root.right,level+1);
+        if(level%2==0){
+            res.get(level).addLast(root.val);
+        }else{
+            res.get(level).addFirst(root.val);
+        } 
+        zig(root.left,res,level+1);
+        zig(root.right,res,level+1);
+    }
+    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+        List<List<Integer>>res=new ArrayList<>();
+        zig(root,res,0);
+        return res;
     }
 }
