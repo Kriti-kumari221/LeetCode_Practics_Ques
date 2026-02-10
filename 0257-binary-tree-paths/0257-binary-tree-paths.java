@@ -14,25 +14,23 @@
  * }
  */
 class Solution {
-    void binary(List<String>s,TreeNode root,String sum){
-        if(root==null){
-            return ;
+    void sumn(TreeNode root,String sum,List<String>res){
+        if(root==null)return ;
+        if(sum.isEmpty()){
+            sum+=root.val;
         }
-       if(sum.isEmpty()){
-        sum+=root.val;
-       }
-       else{
+        else{
         sum+="->"+root.val;
-       }
-        if(root.left==null&&root.right==null){
-            s.add(sum);
         }
-        binary(s,root.left,sum);
-        binary(s,root.right,sum);
+        if(root.left==null&&root.right==null){
+            res.add(sum);
+        }
+        sumn(root.left,sum,res);
+        sumn(root.right,sum,res);
     }
     public List<String> binaryTreePaths(TreeNode root) {
-        List<String>s=new ArrayList<>();
-         binary(s,root,"");
-        return s;
+        List<String>res=new ArrayList<>();
+        sumn(root,"",res);
+return res;
     }
 }
