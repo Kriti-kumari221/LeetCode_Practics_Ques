@@ -1,41 +1,38 @@
 class Solution {
     public boolean canFinish(int V, int[][] edges) {
-        int e=edges.length;
+        int n=edges.length;
         List<List<Integer>>adj=new ArrayList<>();
         for(int i=0;i<V;i++){
-            adj.add(new ArrayList<>());//[[],[],[],[]];
+            adj.add(new ArrayList<>());
         }
-        for(int[] edge:edges){
+        for(int []edge:edges){
             int u=edge[0];
             int v=edge[1];
-            adj.get(u).add(v);//[[],[0],[0],[0]]
-                               // 0  1   2   3
+            adj.get(u).add(v);
         }
         int []indegree=new int[V];
         for(int []edge:edges){
-            int from=edge[0];
-            int to=edge[1];
-            indegree[to]++; //[3,0,0,0];
-                            // 0 1 2 3
+            int u=edge[0];
+            int v=edge[1];
+            indegree[v]++;
         }
-        List<Integer>ans=new ArrayList<>();
-        Queue<Integer>queue=new LinkedList<>();//
+        Queue<Integer>queue=new LinkedList<>();
+        List<Integer>res=new ArrayList<>();
         for(int i=0;i<V;i++){
             if(indegree[i]==0){
                 queue.add(i);
-        }
+            }
         }
         while(!queue.isEmpty()){
-            int temp=queue.remove();
-            ans.add(temp);
-            for(int neighour:adj.get(temp)){
+            int node=queue.remove();
+            res.add(node);
+            for(int neighour:adj.get(node)){
                 indegree[neighour]--;
                 if(indegree[neighour]==0){
                     queue.add(neighour);
                 }
             }
-            
         }
-        return ans.size() == V;
+        return res.size()==V;
     }
 }
