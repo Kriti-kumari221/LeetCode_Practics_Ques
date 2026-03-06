@@ -23,20 +23,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
