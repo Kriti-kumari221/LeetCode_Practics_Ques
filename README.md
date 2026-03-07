@@ -43,4 +43,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
 <!---LeetCode Topics End-->
