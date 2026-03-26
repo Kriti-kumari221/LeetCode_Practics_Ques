@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0067-add-binary/) | Easy |
+| [0338-counting-bits](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0338-counting-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
