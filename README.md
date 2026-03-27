@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0053-maximum-subarray/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -69,8 +70,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0053-maximum-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0053-maximum-subarray/) | Medium |
 | [0338-counting-bits](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
