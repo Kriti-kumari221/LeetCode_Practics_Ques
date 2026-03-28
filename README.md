@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0031-next-permutation](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0217-contains-duplicate/) | Easy |
 | [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
@@ -82,4 +83,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0217-contains-duplicate/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0031-next-permutation](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0031-next-permutation/) | Medium |
 <!---LeetCode Topics End-->
