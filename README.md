@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0125-valid-palindrome/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0031-next-permutation/) | Medium |
+| [0125-valid-palindrome](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0125-valid-palindrome/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
