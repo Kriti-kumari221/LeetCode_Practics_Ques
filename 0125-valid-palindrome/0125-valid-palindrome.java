@@ -6,10 +6,11 @@ class Solution {
         int j=s1.length()-1;
         while(i<j){
             if(s1.charAt(i)!=s1.charAt(j)){
-                return false;
+                return false;   
             }
-            i++;
-            j--;
+             i++;
+                j--;
+            
         }
         return true;
     }
