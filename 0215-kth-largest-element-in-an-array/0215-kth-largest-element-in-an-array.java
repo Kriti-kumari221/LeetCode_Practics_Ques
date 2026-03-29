@@ -7,7 +7,7 @@ class Solution {
         int pindex=left;
         int pivot=nums[right];
         for(int i=left;i<right;i++){
-            if(nums[i]<=pivot){
+            if(nums[i]<pivot){
                 swap(nums,pindex,i);
                 pindex++;
             }
