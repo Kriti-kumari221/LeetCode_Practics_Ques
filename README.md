@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0031-next-permutation](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0338-counting-bits/) | Easy |
@@ -94,9 +96,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0125-valid-palindrome/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
