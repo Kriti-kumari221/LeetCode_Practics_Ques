@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
