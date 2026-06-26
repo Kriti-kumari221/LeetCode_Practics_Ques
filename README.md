@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0162-find-peak-element/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
