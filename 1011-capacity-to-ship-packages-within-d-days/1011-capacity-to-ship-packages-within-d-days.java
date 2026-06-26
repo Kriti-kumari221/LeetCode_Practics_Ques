@@ -1,43 +1,45 @@
 class Solution {
-    public int shipWithinDays(int[] weights, int days) {
-        int max=weights[0];
+    public int shipWithinDays(int[]arr, int days) {
+        int n=arr.length;
         int sum=0;
-        for(int i=0;i<weights.length;i++){
-            if(weights[i]>max){
-                max=weights[i];
+        int max=Integer.MIN_VALUE;
+        for(int i=0;i<n;i++){
+            if(arr[i]>max){
+                max=arr[i];
             }
-            sum=sum+weights[i];
+            sum=sum+arr[i];
         }
-        
-        int left=max;
+       int left=max;
         int right=sum;
-        int ans=0;
+        int res=0;
         while(left<=right){
-            int mid=(left+right)/2;
-            if(func(weights,days,mid)){
-                ans=mid;
+            int mid=left+(right-left)/2;
+            if(fun(arr,mid,days)){
+                res=mid;
                 right=mid-1;
             }
             else{
                 left=mid+1;
             }
+        }
+        return res;
 
-        }
-        return ans;
     }
-        public boolean func(int []weights,int day,int mid){
-            int sumn=0;
-            int d=1;
-            for(int i=0;i<weights.length;i++){
-                if(sumn+weights[i]<=mid){
-                    sumn=sumn+weights[i];
-                }
-                else{
-                    sumn=weights[i];
-                    d++;
-                }
+    boolean fun(int arr[],int mid,int days){
+        int d=1;
+        int sum=0;
+        for(int i=0;i<arr.length;i++){
+            if(sum+arr[i]<=mid){
+                sum=sum+arr[i];
             }
-            return d <= day;
+            else{
+                sum=arr[i];
+                d++;
+            }
         }
-        
+        if(d<=days){
+            return true;
+        }
+        return false;
+    }
 }
