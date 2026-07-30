@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0941-valid-mountain-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1122-relative-sort-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1122-relative-sort-array/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
+| [0905-sort-array-by-parity](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1122-relative-sort-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1122-relative-sort-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Heap (Priority Queue)
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0125-valid-palindrome/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
