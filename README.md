@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0941-valid-mountain-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0941-valid-mountain-array/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
 | [1122-relative-sort-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1122-relative-sort-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1122-relative-sort-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1122-relative-sort-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -123,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,5 +150,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1122-relative-sort-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1122-relative-sort-array/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
