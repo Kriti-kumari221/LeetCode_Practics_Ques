@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0067-add-binary/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-valid-mountain-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0941-valid-mountain-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1122-relative-sort-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1122-relative-sort-array/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -162,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 <!---LeetCode Topics End-->
