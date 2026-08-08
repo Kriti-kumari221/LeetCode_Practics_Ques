@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0053-maximum-subarray/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0125-valid-palindrome/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0922-sort-array-by-parity-ii/) | Easy |
