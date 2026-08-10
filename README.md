@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0067-add-binary/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1122-relative-sort-array/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0125-valid-palindrome/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
