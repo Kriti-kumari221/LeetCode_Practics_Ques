@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,4 +198,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2643-row-with-maximum-ones/) | Easy |
 <!---LeetCode Topics End-->
