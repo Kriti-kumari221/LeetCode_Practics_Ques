@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0217-contains-duplicate/) | Easy |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0125-valid-palindrome/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -177,4 +180,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
