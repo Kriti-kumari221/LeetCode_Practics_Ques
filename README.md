@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0074-search-a-2d-matrix](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0162-find-peak-element/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -194,4 +196,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
