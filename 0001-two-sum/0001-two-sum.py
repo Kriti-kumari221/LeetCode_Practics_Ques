@@ -10,7 +10,7 @@ class Solution(object):
             sumn=target-nums[i]
             if sumn in fun:
                 return [fun[sumn],i]
-            fun[count]=i;
+            fun[count]=i
         return []
         
         
