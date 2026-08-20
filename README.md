@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1232-check-if-it-is-a-straight-line](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Greedy
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2200-find-all-k-distant-indices-in-an-array/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
