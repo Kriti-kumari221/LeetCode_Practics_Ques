@@ -1,19 +1,11 @@
 class Solution {
-    public int maxProfit(int[] nums) {
-        int n=nums.length;
-        int max=0;
-        int sum=Integer.MAX_VALUE;
-        for(int i=0;i<n;i++){
-            if(nums[i]<sum){
-                sum=nums[i];
-            }
-            else{
-                max=Math.max(max,nums[i]-sum);
-            }
-            
-           
-
+    public int maxProfit(int[] arr) {
+        int max=Integer.MIN_VALUE;
+        int min=arr[0];
+        for(int i=0;i<arr.length;i++){
+            min=Math.min(min,arr[i]);
+            max=Math.max(max,arr[i]-min);
         }
-         return max;
+        return max;
     }
 }
