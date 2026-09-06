@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0067-add-binary/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0338-counting-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0630-course-schedule-iii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0630-course-schedule-iii/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0162-find-peak-element/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0125-valid-palindrome/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -203,4 +207,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/2643-row-with-maximum-ones/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kriti-kumari221/LeetCode_Practics_Ques/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
